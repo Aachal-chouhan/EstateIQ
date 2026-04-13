@@ -1,0 +1,1 @@
+Scaler features: ['property_type', 'price_per_sqft', 'area', 'areaWithType', 'bedRoom', 'bathroom', 'balcony', 'additionalRoom', 'floorNum', 'facing', 'agePossession']
